@@ -1,0 +1,3 @@
+Dominando Git
+juequin 
+git status 
