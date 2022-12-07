@@ -1,3 +1,47 @@
-Dominando Git
-juequin 
-git status 
+git config --global user.name "<nombre>"
+
+git config --global user.email "<email>"
+
+git config --global core.editor "code --wait"
+
+git config --global -e
+
+git config --global core.autocrlf true //para windows
+
+git config --global core.autocrlf input //para linux ó mac
+
+git config -h
+
+Tecla (control + L) //limpia la pantalla
+
+Ls
+
+Pwd
+
+Cd ..
+
+Ls -a
+
+git init
+
+cd .git
+
+code .
+
+git status
+
+git add .
+
+Rm //deleted
+
+Git restore --staged <nombre del archivo>
+
+Git restore <nombre del archivo>
+
+Mv  <nombre del archivo>  <nombre del archivo modificado>
+
+git log
+
+git log --oneline
+
+git checkout -b ramab
